@@ -11,15 +11,17 @@ All issues submited to this repository must follow this template:
 
 **Rendering [optional]**
 
-*How is your application rendered (Metal, OpenGL, Vulcan).*
+*Specify how is your application rendered (Metal, OpenGL, Vulcan).*
 
-**Smartlook SDK version used**
+**Smartlook SDK version**
+
+*Which version of Smartlook SDK is used.*
 
 **Summary**
 
 *Summarize the issue encountered concisely.*
 
-**Steps to reproduce [optional] **
+**Steps to reproduce [optional]**
 
 *How one can reproduce the issue.*
 
