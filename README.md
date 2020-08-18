@@ -27,15 +27,14 @@ All issues submited to this repository must follow this template:
 ### Smartlook SDK version used
 
 ### Summary
-(Summarize the issue encountered concisely)
+Summarize the issue encountered concisely.
 
 ### [optional] Steps to reproduce
-(How one can reproduce the issue)
+How one can reproduce the issue.
 
 ### [optional] Example Project
-(If possible, please create an example project that exhibits the problematic behaviour, and link to it here in the issue report)
+If possible, please create an example project that exhibits the problematic behaviour, and link to it here in the issue report.
 
 ### [optional] Relevant logs and/or screenshots
-
-(Paste any relevant logs - please use code blocks (```) to format console output,
-logs, and code as it's very hard to read otherwise.)
+Paste any relevant logs - please use code blocks (```) to format console output,
+logs, and code as it's very hard to read otherwise.
