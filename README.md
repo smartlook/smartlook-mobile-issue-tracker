@@ -1,3 +1,6 @@
+# Smartlook mobile SDK issue tracker
+All issues regarding Smartlook SDK should be reported here (for all platfroms and used technologies).
+
 # How to submit a issue?
 1. Go to Issues
 2. Click on "New issue"
