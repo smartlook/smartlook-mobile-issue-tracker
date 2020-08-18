@@ -2,27 +2,13 @@
 All issues submited to this repository must follow this template:
 
 ### Platform
-- Android
-- iOS
-- both
-
-### Minimal supported platform API/version
+Write down platform that your application runs on (Android, iOS, both).
 
 ### Technology
-- native app
-- React Native
-- Unity
-- Flutter
-- Cocos
-- Unreal
-- Cordova
-- Ionic
-- other
+Technology that is used to develop your application (native, React native, Unity, Flutter, Cocos, Unreal, Cordova, Ionic, other).
 
 ### [optional] Rendering
-- Metal
-- OpenGL
-- Vulkan
+How is your application rendered (Metal, OpenGL, Vulcan).
 
 ### Smartlook SDK version used
 
