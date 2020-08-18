@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Platform**
-Write down platform that your application runs on (Android, iOS, both).
+<!--- Write down platform that your application runs on (Android, iOS, both). -->
 
 **Technology**
 Technology that is used to develop your application (native, React native, Unity, Flutter, Cocos, Unreal, Cordova, Ionic, other).
