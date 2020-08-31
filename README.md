@@ -10,3 +10,4 @@ All issues regarding Smartlook SDK should be reported here (for all platfroms an
 # Changelogs
 - [Android SDK](/changelogs/android.md)
 - [iOS SDK](/changelogs/ios.md)
+- [React native bridge](/changelogs/react.md)
