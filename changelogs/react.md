@@ -1,4 +1,4 @@
-# Changelog
+# React native bridge changelog
 
 ## [0.26.0] - 2020-03-11
 ### Changed
