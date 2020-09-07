@@ -1,5 +1,14 @@
 # Android SDK changelog
 
+## [1.5.3] - 2020-09-08
+
+### Added
+- Additional builder options for bridges (React, Flutter, ...)
+
+### Fixed
+- event spamming stability issue
+- internal session handling
+
 ## [1.5.2] - 2020-07-22
 
 ### Fixed
