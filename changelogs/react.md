@@ -1,5 +1,9 @@
 # React native bridge changelog
 
+## [0.33.0] - 2020-09-07
+### Changed
+- update to the latest native SDK versions
+
 ## [0.26.0] - 2020-03-11
 ### Changed
 - updated plugin API to be in line with other Smartlook platforms
