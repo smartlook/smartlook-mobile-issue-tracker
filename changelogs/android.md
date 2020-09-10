@@ -6,8 +6,9 @@
 - Additional builder options for bridges (React, Flutter, ...)
 
 ### Fixed
-- event spamming stability issue
-- internal session handling
+- Event spamming stability issue
+- Internal session handling
+- **Sessions from the same visitor are correctly grouped in Dashboard**
 
 ## [1.5.2] - 2020-07-22
 
