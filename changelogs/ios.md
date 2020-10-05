@@ -1,5 +1,20 @@
 # iOS SDK changelog
 
+## [1.5.0] - 2020-10-5
+
+### Fixed
+- there are some reported bugs that cannot reproduced by us. This release attempts to fix them nevertherless:
+ - https://github.com/smartlook/smartlook-mobile-issue-tracker/issues/8
+ - https://github.com/smartlook/smartlook-mobile-issue-tracker/issues/5
+
+### Added
+- event tracking modes
+- rage click detection
+- added networking dev tool to iOS
+
+### Changed
+- removed some long deprecated methods
+
 ## [1.4.1] - 2020-07-07
 
 ### Fixed
