@@ -1,5 +1,18 @@
 # Android SDK changelog
 
+## [1.6.0] - 2020-10-12
+
+### Added
+- New robust event tracking mode implementation
+
+### Fixed
+- Json conversions stability improved
+- Debug log tags are not obfuscated
+
+### Changed
+- API is now using enums instead of annotation classes, this applies for: `RenderingMode`, `RenderingModeOption`, `ViewType` and `ViewState` 
+- Wireframe rendering mode improved `view.clipChildren=false` is now considered
+
 ## [1.5.3] - 2020-09-08
 
 ### Added
