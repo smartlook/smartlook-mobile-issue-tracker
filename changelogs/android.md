@@ -1,5 +1,10 @@
 # Android SDK changelog
 
+## [1.6.1] - 2020-10-26
+
+### Fixed
+- Fixed Activity reference issue
+
 ## [1.6.0] - 2020-10-12
 
 ### Added
