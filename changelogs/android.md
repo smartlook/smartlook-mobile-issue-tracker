@@ -10,9 +10,6 @@
 ### Fixed
 - Various stability improvements
 
-### Fixed
-- Fixed `Activity` reference issue
-
 ## [1.6.1] - 2020-10-26
 
 ### Fixed
