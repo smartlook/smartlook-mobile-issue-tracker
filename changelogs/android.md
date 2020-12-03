@@ -1,5 +1,15 @@
 # Android SDK changelog
 
+## [1.7.0] - 2020-12-02
+
+### Added
+- Automatic integrations for [Heap.io](https://heap.io/), [Amplitude](https://amplitude.com/), [Firebase Crashlytics](https://firebase.google.com/products/crashlytics), [Bugsnag](https://www.bugsnag.com/) and [Mixpanel](https://mixpanel.com/)
+- Segment [Middleware](https://segment.com/docs/connections/sources/catalog/libraries/mobile/android/middleware/) implementation that can be used to propagate events from segment to Smartlook
+- Adaptive recording framerate enable/disable API
+
+### Fixed
+- Various stability improvements
+
 ## [1.6.1] - 2020-10-26
 
 ### Fixed
