@@ -1,5 +1,14 @@
 # iOS SDK changelog
 
+## [1.7.1] - 2020-12-18
+
+### Fixed
+- improved memory management (including fix of memory leak when not released memory acquired in `class_copyMethodList`)
+- code that may lead to crashes due to race condition when storing user and other properties
+
+### Various
+- some improvements in algorithms efficiency when reading the screen structure
+
 ## [1.7.0] - 2020-12-02
 
 ### Added
