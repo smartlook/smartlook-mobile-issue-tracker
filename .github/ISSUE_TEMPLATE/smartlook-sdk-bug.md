@@ -13,6 +13,9 @@ assignees: ''
 **Technology**
 <!--- Technology that is used to develop your application (native, React native, Unity, Flutter, Cocos, Unreal, Cordova, Ionic, other). -->
 
+**Build instructions [optional]**
+<!--- i.e. React Native version, package.json, Unity version, gradle dependencies etc. -->
+
 **Rendering [optional]**
 <!--- Specify how is your application rendered (Metal, OpenGL, Vulcan). -->
 
