@@ -1,5 +1,13 @@
 # iOS SDK changelog
 
+## [1.7.2] - 2020-02-02
+
+### Fixed
+- issue when sensitive data were not covered when behind a translucent view like UIAlertController
+
+### Changed
+- sensitive data overlay is now a hatched pattern not a solid color
+
 ## [1.7.1] - 2020-12-18
 
 ### Fixed
