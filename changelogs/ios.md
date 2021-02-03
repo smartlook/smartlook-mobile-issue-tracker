@@ -1,5 +1,10 @@
 # iOS SDK changelog
 
+## [1.7.3] - 2020-02-03
+
+### Changed
+- added arm simulator support to Cocoapods build as they seem to support it now
+
 ## [1.7.2] - 2020-02-02
 
 ### Fixed
