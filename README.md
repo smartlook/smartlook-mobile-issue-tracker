@@ -8,6 +8,11 @@ All issues regarding Smartlook SDK should be reported here (for all platfroms an
 4. **Fill in all possible info using the provided template.**
 
 # Changelogs
-- [Android SDK](/changelogs/android.md)
-- [iOS SDK](/changelogs/ios.md)
-- [React native bridge](/changelogs/react.md)
+- [Android SDK](https://smartlook.github.io/docs/sdk/sdk-release-changelogs?platform=android)
+- [iOS SDK](https://smartlook.github.io/docs/sdk/sdk-release-changelogs?platform=ios)
+- [React native bridge](https://smartlook.github.io/docs/sdk/sdk-release-changelogs?platform=react)
+- [Cocos](https://smartlook.github.io/docs/sdk/sdk-release-changelogs?platform=cocos)
+- [Cordova](https://smartlook.github.io/docs/sdk/sdk-release-changelogs?platform=cordova)
+- [Ionic](https://smartlook.github.io/docs/sdk/sdk-release-changelogs?platform=ionic)
+- [Xamarin](https://smartlook.github.io/docs/sdk/sdk-release-changelogs?platform=xamarin)
+- [Flutter](https://smartlook.github.io/docs/sdk/sdk-release-changelogs?platform=flutter)
